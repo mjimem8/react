@@ -1,0 +1,5 @@
+Babel es un transcompilador de JavaScript gratuito y de código abierto que se utiliza 
+principalmente para convertir el código ECMAScript 2015+ en una versión de JavaScript compatible con versiones 
+anteriores que pueden ejecutar los motores JavaScript más antiguos
+
+Se utiliza en react
